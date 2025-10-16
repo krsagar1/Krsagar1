@@ -30,5 +30,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krsagar1&show_icons=true&locale=en" alt="krsagar1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krsagar1&" alt="krsagar1" /></p>
-![jee gif](https://github.com/user-attachments/assets/073cb2a3-1de0-4cb5-9d89-f22c28be0c1e)
+
+
+![ggggggggiu (1)](https://github.com/user-attachments/assets/9030f4cc-1dd1-48ce-b739-f8a1e6ad885d)
 
