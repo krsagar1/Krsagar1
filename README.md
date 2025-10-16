@@ -34,3 +34,9 @@
 
 ![ggggggggiu (1)](https://github.com/user-attachments/assets/9030f4cc-1dd1-48ce-b739-f8a1e6ad885d)
 
+<div allign="center">
+  
+  ![snake gif](https://github.com/krsagar1/krsagar1/blob/output/github-snake-dark.svg)
+  
+</div>
+
